@@ -196,7 +196,7 @@
     "jest-styled-components": "^7.0.5",
     "json-loader": "^0.5.7",
     "prettier": "^2.2.1",
-    "qs": "^6.9.4",
+    "qs": "^6.10.4",
     "react-cosmos": "^5.6.6",
     "react-test-renderer": "^18.0.0",
     "rollup": "^2.63.0",
@@ -209,7 +209,7 @@
     "typechain": "^5.0.0",
     "typescript": "^4.4.3",
     "wcag-contrast": "^3.0.0",
-    "webpack": "^5.72.0",
+    "webpack": "^5.76.0",
     "yarn-deduplicate": "^6.0.0"
   },
   "resolutions": {
